@@ -1,1 +1,9 @@
-# CRASH-TOKEN
+/**/node_modules/
+/dist/
+/.git/
+/app/css/
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
+/**/debug.log
